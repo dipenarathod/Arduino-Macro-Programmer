@@ -1,4 +1,4 @@
-# Atmega32u4-HID-Keyboard-Programmer
+# Macro Programmer for HID compatible microcontrollers (eg: Atmega 32u4 based boards)
 C code generator + GUI to easily generate HID programs for HID compatible microcontrollers 
 
 Supports upto a 64 Key keyboard with a 8x8 layout.
